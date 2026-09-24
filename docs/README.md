@@ -41,7 +41,9 @@ OctoAcme follows a practical project lifecycle that helps teams align on outcome
 
 ## Suggested reading order
 
-For a new project, start with the overview and then move through the lifecycle in order:
+### Onboarding
+
+If you are new to OctoAcme project delivery, start with the overview and then move through the lifecycle in order:
 
 1. [Project Management Overview](octoacme-project-management-overview.md)
 2. [Project Initiation Guide](octoacme-project-initiation.md)
@@ -52,10 +54,18 @@ For a new project, start with the overview and then move through the lifecycle i
 7. [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 8. [Personas](octoacme-roles-and-personas.md)
 
+### Day-to-day work
+
+For active project work, use this README as a quick index and then jump to the guide that matches your current need:
+
+- Start with [Project Management Overview](octoacme-project-management-overview.md) if you need a refresher on roles, artifacts, or cadence.
+- Use [Project Planning](octoacme-project-planning.md) and [Execution & Tracking](octoacme-execution-and-tracking.md) most often during ongoing delivery.
+- Refer to [Risk Management & Communication](octoacme-risks-and-communication.md) when issues arise, stakeholder alignment is needed, or project status changes.
+- Use [Release & Deployment Guide](octoacme-release-and-deployment.md) before shipping changes and [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) after milestones or releases.
+
 ## How to use these docs
 
 - Keep the project charter and status materials in the project repo.
 - Use the relevant playbook for the phase of work you are in.
 - Add process-specific context to `.copilot/` if you want Copilot Spaces to use it as shared project context.
 - Update the documentation as practices evolve so onboarding and execution remain consistent.
-
